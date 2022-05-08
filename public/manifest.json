@@ -2,7 +2,7 @@
     "name": "Budget Tracker",
     "short_name": "Budget",
     "description": "An app that allows you to Track your income and expenses.",
-    "start_url": ".",
+    "start_url": "index.html",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "display": "standalone",
@@ -23,8 +23,6 @@
             "sizes": "128x128"
           }
         
-        
-       
       ]
 
 }
