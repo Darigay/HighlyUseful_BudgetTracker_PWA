@@ -58,6 +58,9 @@ When brought back online:
 ![BT_PWA_3](https://user-images.githubusercontent.com/94805706/167298306-bebc86b5-c9ec-41b4-90ff-d51c4e130002.png)
 - IndexedDB
 ![BT_PWA_4](https://user-images.githubusercontent.com/94805706/167298308-f847d1c3-e9f6-4b39-a978-ce0beb03fece.png)
+- Online-Update
+![BT_PWA_5](https://user-images.githubusercontent.com/94805706/167298819-d8e3910a-fa28-46b3-bc44-f1af3e598790.png)
+
 
 ## Resources
 - UofU BootCamp NOsql Module and Progressive Web Application Module
