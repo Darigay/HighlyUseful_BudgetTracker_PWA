@@ -3,7 +3,28 @@
     "short_name": "Budget",
     "description": "An app that allows you to Track your income and expenses.",
     "start_url": ".",
-    "background_color": "#cadbda",
-    "theme_color": "#cadbda",
-    "display": "standalone"
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/img/icons/icons-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+         },
+        {
+            "src": "/img/icons/icons-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/img/icons/icons-128x128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+          }
+        
+        
+       
+      ]
+
 }
