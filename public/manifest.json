@@ -1,0 +1,9 @@
+{
+    "name": "Budget Tracker",
+    "short_name": "Budget",
+    "description": "An app that allows you to Track your income and expenses.",
+    "start_url": ".",
+    "background_color": "#cadbda",
+    "theme_color": "#cadbda",
+    "display": "standalone"
+}
