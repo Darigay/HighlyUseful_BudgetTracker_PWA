@@ -4,8 +4,8 @@
 The URL of the GitHub repository
 https://github.com/Darigay/HighlyUseful_BudgetTracker_PWA
 
-## DEployed Heroku URL :
-
+## Deployed Heroku URL :
+https://stark-basin-08812.herokuapp.com/
 
 ## Table of Contents
 - Description
